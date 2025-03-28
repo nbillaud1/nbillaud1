@@ -1,5 +1,5 @@
 Hi I'm BILLAUD Nathan, I'm currently studying computer science !
-I like coding apps and website
+I like coding apps and websites
 ## Contact :
 > nathan.billaud@etu.unilim.fr
 
